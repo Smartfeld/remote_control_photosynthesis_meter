@@ -1,5 +1,5 @@
 {
-    "name": "Fotosynthese_Fernbedienung",
+    "name": "remote_control_photosynthesis_meter",
     "description": "",
     "dependencies": {
         "core": "*",
